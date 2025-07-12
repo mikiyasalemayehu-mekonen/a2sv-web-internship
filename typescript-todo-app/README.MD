@@ -13,7 +13,7 @@ A simple command-line todo list application built using TypeScript for the A2SV 
 ## 🚀 How to Run
 
 1. Clone the Repository
-   git clone https://github.com/YOUR_USERNAME/typescript-todo-app.git
+   git clone https://github.com/mikiyasalemayehu-mekonen/a2sv-web-internship
    cd typescript-todo-app
 
 2. Install Node.js & TypeScript
@@ -38,7 +38,7 @@ A simple command-line todo list application built using TypeScript for the A2SV 
 ![Delete Task Screenshot](./screenshots/delete-task.png)
 
 ### 📋 Display Tasks
-![Display Task Screenshot](./screenshots/display-task.png)
+![Display Task Screenshot](./screenshots/edit-task.png)
 
 
 ## 🪪 License
