@@ -1,3 +1,32 @@
+# 🧑‍💼 Job Listing Application 
+
+This project is part of a series aimed at developing a full-featured job listing web application using React and Tailwind CSS.  The objective is to create a visually accurate and functional Job Card component and an Applicants Dashboard using dummy data and a provided UI design.
+
+
+## 📌 Task Overview
+
+Objective:
+Build a Job Card component and a Dashboard UI based on the provided Figma design, populate it with JSON data, and integrate avatar images using Tailwind CSS for styling.
+
+
+
+## ✅ Features Implemented
+
+- ✅ Functional React card component created
+- ✅ Dummy data populated into card fields (name, title, description)
+- ✅ Avatar image integrated into the card
+- ✅ Dashboard page built and styled using Tailwind CSS
+- ✅ Layout and styling follow the provided Figma UI
+- ✅ Clean and organized code structure
+- ✅ Screenshots provided for all major components/pages
+
+
+
+
+### 📊 Dashboard View
+![Dashboard](./screenshots/dashboard.png)
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
