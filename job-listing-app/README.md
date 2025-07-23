@@ -26,6 +26,9 @@ Build a Job Card component and a Dashboard UI based on the provided Figma design
 ### 📊 Dashboard View
 ![Dashboard](./screenshots/dashboard.png)
 
+### 📊 Description View
+![Dashboard](./screenshots/Description.png
+
 
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
